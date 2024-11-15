@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://yourportfolio.com/about/</loc>
     <lastmod>2024-11-14T09:47:05+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://yourportfolio.com/</loc>
     <lastmod>2024-11-14T09:47:05+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/pre-exam-process-automation/</loc>
+    <loc>https://yourportfolio.com/projects/pre-exam-process-automation/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://yourportfolio.com/projects/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/responsive-web-design/</loc>
+    <loc>https://yourportfolio.com/projects/responsive-web-design/</loc>
     <lastmod>2024-11-14T00:00:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://yourportfolio.com/blog/</loc>
     <lastmod>2024-05-15T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/the-evolution-of-programming/</loc>
+    <loc>https://yourportfolio.com/blog/the-evolution-of-programming/</loc>
     <lastmod>2024-05-15T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/what-is-web-development/</loc>
+    <loc>https://yourportfolio.com/blog/what-is-web-development/</loc>
     <lastmod>2024-04-03T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/services/</loc>
+    <loc>https://yourportfolio.com/services/</loc>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://yourportfolio.com/authors/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://yourportfolio.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/contact/</loc>
+    <loc>https://yourportfolio.com/contact/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://yourportfolio.com/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://yourportfolio.com/tags/</loc>
   </url>
 </urlset>
