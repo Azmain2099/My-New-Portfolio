@@ -1,0 +1,5 @@
+# Ignore Hugo build lock file
+.hugo_build.lock
+
+# Ignore generated public folder (Hugo build output)
+public/
